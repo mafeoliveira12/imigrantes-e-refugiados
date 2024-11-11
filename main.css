@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #ffffff;
-		background-image: "/imagem0012.jpg";
+		background-image: "images/imagem0012.jpg";
 	}
 
 		/*body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -152,7 +152,7 @@ input, select, textarea {
 	}
 	body {
 		color: #000000;
-		background-image: url(".../imagens/imagem0009.jpg");
+		background-image: url(".../images/imagem0009.jpg");
 		background-repeat: repeat;
 		background-size:100%;
 	}
